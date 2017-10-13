@@ -120,6 +120,7 @@ export default class Sprite extends Component {
 
     return (
       <Surface
+        preload="true"
         onStartShouldSetResponderCapture={ () => true }
         onMoveShouldSetResponderCapture={ () => true}
         onResponderTerminationRequest={ () => false }
