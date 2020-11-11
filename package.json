@@ -4,6 +4,6 @@
   "main": "src/index.js",
   "dependencies": {
     "gl-react": "^2.2.8",
-    "gl-react-native": "<=2.42.3"
+    "gl-react-native-v2": "<=2.42.3"
   }
 }
