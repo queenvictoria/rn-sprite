@@ -4,6 +4,6 @@
   "main": "src/index.js",
   "dependencies": {
     "gl-react": "2.2.8",
-    "gl-react-native-v2": "gre/gl-react-native-v2#v2.42.3",
+    "gl-react-native-v2": "git+https://github.com/gre/gl-react-native-v2.git#v2.42.3",
   }
 }
